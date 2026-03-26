@@ -38,36 +38,44 @@ graph TD
     K --> C
 ```
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
+
+### Application Walkthrough
+
+![Application Demo](docs/images/recording.webp)
 
 ### User Detail Page
+
 ![Detail Page](docs/images/details.png)
 
 ## 📦 Getting Started
 
 ### Prerequisites
+
 - Node.js (v16+)
 - npm or yarn
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CodeSculpt-RG/Dashboard.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Dashboard
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/CodeSculpt-RG/Dashboard.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd Dashboard
+    ```
+3.  Install dependencies:
+    ```bash
+    npm install
+    ```
+4.  Start the development server:
+    ```bash
+    npm run dev
+    ```
 
 ## 📂 Project Structure
+
 ```text
 src/
 ├── components/   # Atomic UI components
